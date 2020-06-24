@@ -2,13 +2,13 @@
   "name": "node-red-contrib-thetav",
   "version": "1.0.0",
   "description": "Take a picture with THETA V",
-  "main": "node.js",
+  "main": "theta.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "node-red": {
     "nodes": {
-      "lower-case": "node.js"
+      "theta": "theta.js"
     }
   },
   "repository": {
