@@ -1,0 +1,28 @@
+{
+  "name": "node-red-contrib-thetav",
+  "version": "1.0.0",
+  "description": "Take a picture with THETA V",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamasaitensai/node-red-contrib-thetav.git"
+  },
+  "keywords": [
+    "node-red",
+    "theta"
+  ],
+  "author": "yamasaitensai",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yamasaitensai/node-red-contrib-thetav/issues"
+  },
+  "homepage": "https://github.com/yamasaitensai/node-red-contrib-thetav#readme"
+}
